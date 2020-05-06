@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>SaleOfApartments.CollectionManager</OriginalElement>
+  <nodes>
+    <node x="0.0" y="22.0">SaleOfApartments.Coordinates</node>
+    <node x="131.2500000000001" y="1496.0">SaleOfApartments.Commander</node>
+    <node x="470.0" y="0.0">SaleOfApartments.House</node>
+    <node x="158.00000000000003" y="22.5">SaleOfApartments.Furnish</node>
+    <node x="83.35000000000002" y="190.0">SaleOfApartments.Flat</node>
+    <node x="687.0" y="0.5">SaleOfApartments.View</node>
+    <node x="303.0000000000001" y="1731.0">SaleOfApartments.Main</node>
+    <node x="67.375" y="843.0">SaleOfApartments.CollectionManager</node>
+    <node x="309.0" y="0.5">SaleOfApartments.Transport</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="SaleOfApartments.Flat" target="SaleOfApartments.Furnish">
+      <point x="-120.60000000000008" y="-301.5" />
+      <point x="264.24999999999994" y="165.0" />
+      <point x="223.50000000000003" y="165.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="SaleOfApartments.Flat" target="SaleOfApartments.Transport">
+      <point x="-5.6843418860808015E-14" y="-301.5" />
+      <point x="384.84999999999997" y="165.0" />
+      <point x="379.5" y="165.0" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="SaleOfApartments.Main" target="SaleOfApartments.CollectionManager">
+      <point x="38.25" y="-25.5" />
+      <point x="417.7500000000001" y="1706.0" />
+      <point x="465.7500000000001" y="1706.0" />
+      <point x="465.7500000000001" y="1471.0" />
+      <point x="563.875" y="1471.0" />
+      <point x="165.5" y="301.5" />
+    </edge>
+    <edge source="SaleOfApartments.Flat" target="SaleOfApartments.House">
+      <point x="120.59999999999997" y="-301.5" />
+      <point x="505.45" y="165.0" />
+      <point x="568.5" y="165.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="SaleOfApartments.CollectionManager" target="SaleOfApartments.Flat">
+      <point x="-165.5" y="-301.5" />
+      <point x="232.875" y="818.0" />
+      <point x="234.10000000000002" y="818.0" />
+      <point x="-150.75" y="301.5" />
+    </edge>
+    <edge source="SaleOfApartments.Commander" target="SaleOfApartments.CollectionManager">
+      <point x="0.0" y="-92.5" />
+      <point x="293.2500000000001" y="1471.0" />
+      <point x="232.875" y="1471.0" />
+      <point x="-165.5" y="301.5" />
+    </edge>
+    <edge source="SaleOfApartments.Flat" target="SaleOfApartments.View">
+      <point x="241.20000000000005" y="-301.5" />
+      <point x="626.0500000000001" y="165.0" />
+      <point x="765.5" y="165.0" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="SaleOfApartments.Main" target="SaleOfApartments.Commander">
+      <point x="-38.25" y="-25.5" />
+      <point x="341.2500000000001" y="1706.0" />
+      <point x="293.2500000000001" y="1706.0" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="SaleOfApartments.Flat" target="SaleOfApartments.Coordinates">
+      <point x="-241.20000000000005" y="-301.5" />
+      <point x="143.64999999999998" y="165.0" />
+      <point x="69.0" y="165.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3091009988901221" x="422.0" y="891.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

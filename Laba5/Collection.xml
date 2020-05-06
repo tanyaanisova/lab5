@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Groups>
+  <StudyGroup>
+    <id>2</id>
+    <name>i</name>
+    <Coordinates>
+      <x>15.0</x>
+      <y>64</y>
+    </Coordinates>
+    <creationDate>2020-05-06T03:19:08.823+03:00[GMT+03:00]</creationDate>
+    <studentsCount>56</studentsCount>
+    <expelledStudents>76</expelledStudents>
+    <averageMark>34.0</averageMark>
+    <Semester>THIRD</Semester>
+    <groupAdmin>
+      <name>Leha</name>
+      <height>180.0</height>
+      <weight>90</weight>
+      <location>null</location>
+    </groupAdmin>
+  </StudyGroup>
+  <StudyGroup>
+    <id>1</id>
+    <name>lol</name>
+    <Coordinates>
+      <x>10.0</x>
+      <y>-13</y>
+    </Coordinates>
+    <creationDate>2020-05-06T03:11:39.268+03:00[GMT+03:00]</creationDate>
+    <studentsCount>0</studentsCount>
+    <expelledStudents>12</expelledStudents>
+    <averageMark>7.0</averageMark>
+    <Semester>SECOND</Semester>
+    <groupAdmin>
+      <name>Roma</name>
+      <height>150.0</height>
+      <weight>50</weight>
+      <location>
+        <x>13.0</x>
+        <y>13</y>
+        <z>13</z>
+        <name>you</name>
+      </location>
+    </groupAdmin>
+  </StudyGroup>
+</Groups>
